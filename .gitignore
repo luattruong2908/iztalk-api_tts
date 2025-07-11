@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+test.py
+output
+src/infer/model/model_48000.safetensors
